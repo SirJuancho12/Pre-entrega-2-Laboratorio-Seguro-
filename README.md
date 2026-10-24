@@ -1,6 +1,7 @@
 # Pre-entrega 2: Laboratorio Seguro de Ciberseguridad
 
 **Autor:** Juan Francisco Peña
+
 **Sistema operativo de la VM:** Windows 11 
 
 ## Resumen
