@@ -1,7 +1,7 @@
 # Pre-entrega 2: Laboratorio Seguro de Ciberseguridad
 
 **Autor:** Juan Francisco Peña
-**Sistema operativo de la VM:** WINDOWS 11 START 
+**Sistema operativo de la VM:** Windows 11 
 
 ## Resumen
 
@@ -13,7 +13,7 @@ Creé una máquina virtual de prácticas en VirtualBox con red en modo NAT, un u
 
 ![Configuración de red NAT](Ciberseguridad1.png)
 
-**Qué hice:** Antes de iniciar la VM, fui a *Configuración → Red → Adaptador 1* y verifiqué que estuviera en modo **NAT**.
+**Qué hice:** Antes de iniciar la VM, fui a *Configuración - Red - Adaptador 1* y verifiqué que estuviera en modo **NAT**.
 
 **Por qué es importante:** Con NAT la VM puede salir a internet (por ejemplo, para actualizarse) usando la IP del host, pero nadie desde afuera puede iniciar conexiones hacia ella. Esto protege tanto a la VM como a mi equipo real.
 
