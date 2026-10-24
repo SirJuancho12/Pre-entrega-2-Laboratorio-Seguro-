@@ -51,6 +51,4 @@ Creé una máquina virtual de prácticas en VirtualBox con red en modo NAT, un u
 
 ## Conclusión
 
-## Conclusión
-
 En este laboratorio aprendí a crear una máquina virtual segura para practicar ciberseguridad. Configuré la red en modo NAT para proteger mi equipo real, creé un usuario con permisos limitados, actualicé el sistema y guardé un snapshot para poder volver atrás si algo sale mal. Estos pasos son la base para trabajar de forma segura en las próximas prácticas.
